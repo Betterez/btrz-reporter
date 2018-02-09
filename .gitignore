@@ -1,0 +1,4 @@
+bin/
+runners/
+pkg/
+reporter.txt
