@@ -20,7 +20,7 @@ func main() {
 
 const (
 	opFileName     = "reporter.txt"
-	currentVersion = "1.0.0.7"
+	currentVersion = "1.0.0.8"
 )
 
 func analizeCommandLine() {
